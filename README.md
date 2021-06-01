@@ -1,6 +1,6 @@
 ## Git-me
 
-## Live at [https://shekhutsav1962001.github.io/Git-Me](https://shekhutsav1962001.github.io/Git-Me/)
+### Live At  = <a href="https://shekhutsav1962001.github.io/Git-Me/">view</a>
 
 #### React App based on github api where user can search user by entering user name and get basics details (name , github profile pic, bio of github , no of following ,no of followers and no of repo)
 #### Also user can get list of users who don't follow back to given user 🤪🤪🤪. (You know what to do with them 😂😂)
